@@ -114,3 +114,12 @@ avaliado de acordo com os seguintes critérios:
 
 • Também não é permitido o uso de classes prontas da Linguagem Java para representar o vetor de objetos
 da classe Carta. Tais como List ou ArrayList.
+
+
+### Detalhes da Implementação
+
+Além do projeto em sí, também deixei disponivel uma pasta utils com o código para gerar o arquivo txt de cartas (em python)
+
+## Autor
+
+Hugo Amorim Martins    Tia:41991184
